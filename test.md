@@ -11,5 +11,5 @@ void loop()
 {digitalWrite(pin1,1);
 delay(100);
 digitalWrite(pin1,0);
-delay(200);
+delay(300);
 }
